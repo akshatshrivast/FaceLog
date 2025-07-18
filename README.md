@@ -1,5 +1,5 @@
 
-# 🎯 Face Recognition Attendance System
+# 👉 Face Recognition Attendance System
 
 A Python-based **Face Recognition Attendance System** that uses your webcam to detect and recognize faces, then marks attendance with a timestamp. This contactless system is ideal for educational institutes and workplaces looking to automate and digitize attendance.
 
