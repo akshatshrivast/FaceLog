@@ -5,21 +5,6 @@ A Python-based **Face Recognition Attendance System** that uses your webcam to d
 
 ---
 
-## 📸 Demo Preview
-
-> 📷 Add your screenshots to the `assets/` folder and replace the image paths below accordingly.
-
-![Home Screen](assets/home_screen.png)  
-*Home screen of the application*
-
-![Face Detection](assets/face_detection.png)  
-*Real-time face recognition in progress*
-
-![Attendance Log](assets/attendance_log.png)  
-*Logged attendance with name, date, and time*
-
----
-
 ## 🚀 Features
 
 - 🧠 Real-time face recognition using OpenCV
@@ -46,6 +31,6 @@ A Python-based **Face Recognition Attendance System** that uses your webcam to d
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/face-attendance-system.git
+git clone https://github.com/akshatshrivast/FaceLog.git
 cd face-attendance-system
 
